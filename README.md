@@ -1,4 +1,4 @@
-## Vanill_Website CodeSandBox https://3vr9q.csb.app/
+## Vanilla_Website (CodeSandBox https://3vr9q.csb.app/)
 ## Build Setup
 ```bash
 #  Use node version >10
